@@ -1,0 +1,2001 @@
+,0
+""" scope=""row""1",ranker
+"""<a href=""/en/players/774cf58b/Max-Aarons""Max Aarons",player
+""" data-tip=""YNT""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""DF",position
+"""<a href=""/en/squads/4ba7cbea/Bournemouth-Stats""Bournemouth",team
+"""24-044",age
+"""2000",birth_year
+"""14",games
+"""12",games_starts
+"""1,085",minutes
+"""12.1",minutes_90s
+"""0",goals
+"""1",assists
+"""1",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.8",xg_assist
+"""0.8",npxg_xg_assist
+"""19",progressive_carries
+"""40",progressive_passes
+"""22",progressive_passes_received
+"""0.00",goals_per90
+"""0.08",assists_per90
+"""0.08",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.08",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.07",xg_assist_per90
+"""0.07",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.07",npxg_xg_assist_per90
+"""<a href=""/en/players/774cf58b/matchlogs/2023-2024/summary/Max-Aarons-Match-Logs""Matches",matches
+""" scope=""row""2",ranker
+"""<a href=""/en/players/77816c91/Benie-Adama-Traore""Bénie Adama Traore",player
+""" data-tip=""birth""<a href=""/en/country/CIV/Cote-dIvoire-Football""<span style=""white-space: nowrap""<span class=""f-i f-ci"" style=""""ci",nationality
+"""FW,MF",position
+"""<a href=""/en/squads/1df6b87e/Sheffield-United-Stats""Sheffield Utd",team
+"""21-079",age
+"""2002",birth_year
+"""8",games
+"""3",games_starts
+"""387",minutes
+"""4.3",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.3",xg
+"""0.3",npxg
+"""0.5",xg_assist
+"""0.8",npxg_xg_assist
+"""7",progressive_carries
+"""9",progressive_passes
+"""14",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.06",xg_per90
+"""0.13",xg_assist_per90
+"""0.19",xg_xg_assist_per90
+"""0.06",npxg_per90
+"""0.19",npxg_xg_assist_per90
+"""<a href=""/en/players/77816c91/matchlogs/2023-2024/summary/Benie-Adama-Traore-Match-Logs""Matches",matches
+""" scope=""row""3",ranker
+"""<a href=""/en/players/c81d773d/Tosin-Adarabioyo""Tosin Adarabioyo",player
+""" data-tip=""YNT""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""DF",position
+"""<a href=""/en/squads/fd962109/Fulham-Stats""Fulham",team
+"""26-146",age
+"""1997",birth_year
+"""11",games
+"""9",games_starts
+"""813",minutes
+"""9.0",minutes_90s
+"""1",goals
+"""0",assists
+"""1",goals_assists
+"""1",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.3",xg
+"""0.3",npxg
+"""0.1",xg_assist
+"""0.3",npxg_xg_assist
+"""4",progressive_carries
+"""29",progressive_passes
+"""2",progressive_passes_received
+"""0.11",goals_per90
+"""0.00",assists_per90
+"""0.11",goals_assists_per90
+"""0.11",goals_pens_per90
+"""0.11",goals_assists_pens_per90
+"""0.03",xg_per90
+"""0.01",xg_assist_per90
+"""0.04",xg_xg_assist_per90
+"""0.03",npxg_per90
+"""0.04",npxg_xg_assist_per90
+"""<a href=""/en/players/c81d773d/matchlogs/2023-2024/summary/Tosin-Adarabioyo-Match-Logs""Matches",matches
+""" scope=""row""4",ranker
+"""<a href=""/en/players/0480ebc7/Elijah-Adebayo""Elijah Adebayo",player
+""" data-tip=""birth""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""FW",position
+"""<a href=""/en/squads/e297cd13/Luton-Town-Stats""Luton Town",team
+"""26-041",age
+"""1998",birth_year
+"""23",games
+"""13",games_starts
+"""1,162",minutes
+"""12.9",minutes_90s
+"""9",goals
+"""0",assists
+"""9",goals_assists
+"""9",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""5.6",xg
+"""5.6",npxg
+"""0.7",xg_assist
+"""6.3",npxg_xg_assist
+"""14",progressive_carries
+"""19",progressive_passes
+"""85",progressive_passes_received
+"""0.70",goals_per90
+"""0.00",assists_per90
+"""0.70",goals_assists_per90
+"""0.70",goals_pens_per90
+"""0.70",goals_assists_pens_per90
+"""0.43",xg_per90
+"""0.05",xg_assist_per90
+"""0.49",xg_xg_assist_per90
+"""0.43",npxg_per90
+"""0.49",npxg_xg_assist_per90
+"""<a href=""/en/players/0480ebc7/matchlogs/2023-2024/summary/Elijah-Adebayo-Match-Logs""Matches",matches
+""" scope=""row""5",ranker
+"""<a href=""/en/players/4dcec659/Simon-Adingra""Simon Adingra",player
+""" data-tip=""NT""<a href=""/en/country/CIV/Cote-dIvoire-Football""<span style=""white-space: nowrap""<span class=""f-i f-ci"" style=""""ci",nationality
+"""FW,MF",position
+"""<a href=""/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats""Brighton",team
+"""22-047",age
+"""2002",birth_year
+"""17",games
+"""13",games_starts
+"""1,142",minutes
+"""12.7",minutes_90s
+"""4",goals
+"""1",assists
+"""5",goals_assists
+"""4",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""2",cards_yellow
+"""0",cards_red
+"""2.4",xg
+"""2.4",npxg
+"""2.1",xg_assist
+"""4.5",npxg_xg_assist
+"""53",progressive_carries
+"""22",progressive_passes
+"""132",progressive_passes_received
+"""0.32",goals_per90
+"""0.08",assists_per90
+"""0.39",goals_assists_per90
+"""0.32",goals_pens_per90
+"""0.39",goals_assists_pens_per90
+"""0.19",xg_per90
+"""0.17",xg_assist_per90
+"""0.35",xg_xg_assist_per90
+"""0.19",npxg_per90
+"""0.35",npxg_xg_assist_per90
+"""<a href=""/en/players/4dcec659/matchlogs/2023-2024/summary/Simon-Adingra-Match-Logs""Matches",matches
+""" scope=""row""6",ranker
+"""<a href=""/en/players/288e1e13/Nayef-Aguerd""Nayef Aguerd",player
+""" data-tip=""NT""<a href=""/en/country/MAR/Morocco-Football""<span style=""white-space: nowrap""<span class=""f-i f-ma"" style=""""ma",nationality
+"""DF",position
+"""<a href=""/en/squads/7c21e445/West-Ham-United-Stats""West Ham",team
+"""27-324",age
+"""1996",birth_year
+"""18",games
+"""18",games_starts
+"""1,596",minutes
+"""17.7",minutes_90s
+"""1",goals
+"""0",assists
+"""1",goals_assists
+"""1",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""3",cards_yellow
+"""1",cards_red
+"""1.5",xg
+"""1.5",npxg
+"""0.2",xg_assist
+"""1.8",npxg_xg_assist
+"""7",progressive_carries
+"""48",progressive_passes
+"""0",progressive_passes_received
+"""0.06",goals_per90
+"""0.00",assists_per90
+"""0.06",goals_assists_per90
+"""0.06",goals_pens_per90
+"""0.06",goals_assists_pens_per90
+"""0.09",xg_per90
+"""0.01",xg_assist_per90
+"""0.10",xg_xg_assist_per90
+"""0.09",npxg_per90
+"""0.10",npxg_xg_assist_per90
+"""<a href=""/en/players/288e1e13/matchlogs/2023-2024/summary/Nayef-Aguerd-Match-Logs""Matches",matches
+""" scope=""row""7",ranker
+"""<a href=""/en/players/938fa024/Brandon-Aguilera""Brandon Aguilera",player
+""" data-tip=""NT""<a href=""/en/country/CRC/Costa-Rica-Football""<span style=""white-space: nowrap""<span class=""f-i f-cr"" style=""""cr",nationality
+"""FW",position
+"""<a href=""/en/squads/e4a775cb/Nottingham-Forest-Stats""Nott'ham Forest",team
+"""20-234",age
+"""2003",birth_year
+"""1",games
+"""0",games_starts
+"""5",minutes
+"""0.1",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.0",xg_assist
+"""0.0",npxg_xg_assist
+"""0",progressive_carries
+"""0",progressive_passes
+"""1",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.00",xg_assist_per90
+"""0.00",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.00",npxg_xg_assist_per90
+"""<a href=""/en/players/938fa024/matchlogs/2023-2024/summary/Brandon-Aguilera-Match-Logs""Matches",matches
+""" scope=""row""8",ranker
+"""<a href=""/en/players/a6c58494/Naouirou-Ahamada""Naouirou Ahamada",player
+""" data-tip=""YNT""<a href=""/en/country/FRA/France-Football""<span style=""white-space: nowrap""<span class=""f-i f-fr"" style=""""fr",nationality
+"""MF,FW",position
+"""<a href=""/en/squads/47c64c55/Crystal-Palace-Stats""Crystal Palace",team
+"""21-325",age
+"""2002",birth_year
+"""13",games
+"""0",games_starts
+"""170",minutes
+"""1.9",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""0.2",xg
+"""0.2",npxg
+"""0.0",xg_assist
+"""0.2",npxg_xg_assist
+"""13",progressive_carries
+"""10",progressive_passes
+"""15",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.11",xg_per90
+"""0.01",xg_assist_per90
+"""0.12",xg_xg_assist_per90
+"""0.11",npxg_per90
+"""0.12",npxg_xg_assist_per90
+"""<a href=""/en/players/a6c58494/matchlogs/2023-2024/summary/Naouirou-Ahamada-Match-Logs""Matches",matches
+""" scope=""row""9",ranker
+"""<a href=""/en/players/eab957a3/Anel-Ahmedhodzic""Anel Ahmedhodžić",player
+""" data-tip=""NT""<a href=""/en/country/BIH/Bosnia-and-Herzegovina-Football""<span style=""white-space: nowrap""<span class=""f-i f-ba"" style=""""ba",nationality
+"""DF",position
+"""<a href=""/en/squads/1df6b87e/Sheffield-United-Stats""Sheffield Utd",team
+"""24-328",age
+"""1999",birth_year
+"""18",games
+"""17",games_starts
+"""1,575",minutes
+"""17.5",minutes_90s
+"""1",goals
+"""0",assists
+"""1",goals_assists
+"""1",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""7",cards_yellow
+"""0",cards_red
+"""2.1",xg
+"""2.1",npxg
+"""0.0",xg_assist
+"""2.1",npxg_xg_assist
+"""7",progressive_carries
+"""26",progressive_passes
+"""15",progressive_passes_received
+"""0.06",goals_per90
+"""0.00",assists_per90
+"""0.06",goals_assists_per90
+"""0.06",goals_pens_per90
+"""0.06",goals_assists_pens_per90
+"""0.12",xg_per90
+"""0.00",xg_assist_per90
+"""0.12",xg_xg_assist_per90
+"""0.12",npxg_per90
+"""0.12",npxg_xg_assist_per90
+"""<a href=""/en/players/eab957a3/matchlogs/2023-2024/summary/Anel-Ahmedhodzic-Match-Logs""Matches",matches
+""" scope=""row""10",ranker
+"""<a href=""/en/players/246d153b/Ola-Aina""Ola Aina",player
+""" data-tip=""NT""<a href=""/en/country/NGA/Nigeria-Football""<span style=""white-space: nowrap""<span class=""f-i f-ng"" style=""""ng",nationality
+"""DF",position
+"""<a href=""/en/squads/e4a775cb/Nottingham-Forest-Stats""Nott'ham Forest",team
+"""27-132",age
+"""1996",birth_year
+"""14",games
+"""12",games_starts
+"""989",minutes
+"""11.0",minutes_90s
+"""1",goals
+"""1",assists
+"""2",goals_assists
+"""1",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""3",cards_yellow
+"""0",cards_red
+"""0.2",xg
+"""0.2",npxg
+"""0.5",xg_assist
+"""0.7",npxg_xg_assist
+"""29",progressive_carries
+"""30",progressive_passes
+"""22",progressive_passes_received
+"""0.09",goals_per90
+"""0.09",assists_per90
+"""0.18",goals_assists_per90
+"""0.09",goals_pens_per90
+"""0.18",goals_assists_pens_per90
+"""0.01",xg_per90
+"""0.05",xg_assist_per90
+"""0.06",xg_xg_assist_per90
+"""0.01",npxg_per90
+"""0.06",npxg_xg_assist_per90
+"""<a href=""/en/players/246d153b/matchlogs/2023-2024/summary/Ola-Aina-Match-Logs""Matches",matches
+""" scope=""row""11",ranker
+"""<a href=""/en/players/9b398aea/Rayan-Ait-Nouri""Rayan Aït Nouri",player
+""" data-tip=""NT""<a href=""/en/country/ALG/Algeria-Football""<span style=""white-space: nowrap""<span class=""f-i f-dz"" style=""""dz",nationality
+"""DF,MF",position
+"""<a href=""/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats""Wolves",team
+"""22-256",age
+"""2001",birth_year
+"""20",games
+"""17",games_starts
+"""1,359",minutes
+"""15.1",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""5",cards_yellow
+"""0",cards_red
+"""1.6",xg
+"""1.6",npxg
+"""1.1",xg_assist
+"""2.7",npxg_xg_assist
+"""40",progressive_carries
+"""66",progressive_passes
+"""65",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.10",xg_per90
+"""0.07",xg_assist_per90
+"""0.18",xg_xg_assist_per90
+"""0.10",npxg_per90
+"""0.18",npxg_xg_assist_per90
+"""<a href=""/en/players/9b398aea/matchlogs/2023-2024/summary/Rayan-Ait-Nouri-Match-Logs""Matches",matches
+""" scope=""row""12",ranker
+"""<a href=""/en/players/a8c0acb7/Kristoffer-Ajer""Kristoffer Ajer",player
+""" data-tip=""NT""<a href=""/en/country/NOR/Norway-Football""<span style=""white-space: nowrap""<span class=""f-i f-no"" style=""""no",nationality
+"""DF",position
+"""<a href=""/en/squads/cd051869/Brentford-Stats""Brentford",team
+"""25-306",age
+"""1998",birth_year
+"""15",games
+"""8",games_starts
+"""758",minutes
+"""8.4",minutes_90s
+"""0",goals
+"""1",assists
+"""1",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""4",cards_yellow
+"""0",cards_red
+"""0.7",xg
+"""0.7",npxg
+"""1.6",xg_assist
+"""2.2",npxg_xg_assist
+"""15",progressive_carries
+"""32",progressive_passes
+"""25",progressive_passes_received
+"""0.00",goals_per90
+"""0.12",assists_per90
+"""0.12",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.12",goals_assists_pens_per90
+"""0.08",xg_per90
+"""0.19",xg_assist_per90
+"""0.27",xg_xg_assist_per90
+"""0.08",npxg_per90
+"""0.27",npxg_xg_assist_per90
+"""<a href=""/en/players/a8c0acb7/matchlogs/2023-2024/summary/Kristoffer-Ajer-Match-Logs""Matches",matches
+""" scope=""row""13",ranker
+"""<a href=""/en/players/89ac64a6/Manuel-Akanji""Manuel Akanji",player
+""" data-tip=""NT""<a href=""/en/country/SUI/Switzerland-Football""<span style=""white-space: nowrap""<span class=""f-i f-ch"" style=""""ch",nationality
+"""DF,MF",position
+"""<a href=""/en/squads/b8fd03ef/Manchester-City-Stats""Manchester City",team
+"""28-213",age
+"""1995",birth_year
+"""16",games
+"""15",games_starts
+"""1,316",minutes
+"""14.6",minutes_90s
+"""2",goals
+"""0",assists
+"""2",goals_assists
+"""2",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""4",cards_yellow
+"""1",cards_red
+"""0.8",xg
+"""0.8",npxg
+"""0.2",xg_assist
+"""1.0",npxg_xg_assist
+"""20",progressive_carries
+"""67",progressive_passes
+"""15",progressive_passes_received
+"""0.14",goals_per90
+"""0.00",assists_per90
+"""0.14",goals_assists_per90
+"""0.14",goals_pens_per90
+"""0.14",goals_assists_pens_per90
+"""0.06",xg_per90
+"""0.01",xg_assist_per90
+"""0.07",xg_xg_assist_per90
+"""0.06",npxg_per90
+"""0.07",npxg_xg_assist_per90
+"""<a href=""/en/players/89ac64a6/matchlogs/2023-2024/summary/Manuel-Akanji-Match-Logs""Matches",matches
+""" scope=""row""14",ranker
+"""<a href=""/en/players/eaeca114/Nathan-Ake""Nathan Aké",player
+""" data-tip=""NT""<a href=""/en/country/NED/Netherlands-Football""<span style=""white-space: nowrap""<span class=""f-i f-nl"" style=""""nl",nationality
+"""DF",position
+"""<a href=""/en/squads/b8fd03ef/Manchester-City-Stats""Manchester City",team
+"""28-364",age
+"""1995",birth_year
+"""19",games
+"""15",games_starts
+"""1,367",minutes
+"""15.2",minutes_90s
+"""2",goals
+"""2",assists
+"""4",goals_assists
+"""2",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""1.6",xg
+"""1.6",npxg
+"""1.1",xg_assist
+"""2.7",npxg_xg_assist
+"""20",progressive_carries
+"""78",progressive_passes
+"""10",progressive_passes_received
+"""0.13",goals_per90
+"""0.13",assists_per90
+"""0.26",goals_assists_per90
+"""0.13",goals_pens_per90
+"""0.26",goals_assists_pens_per90
+"""0.11",xg_per90
+"""0.07",xg_assist_per90
+"""0.18",xg_xg_assist_per90
+"""0.11",npxg_per90
+"""0.18",npxg_xg_assist_per90
+"""<a href=""/en/players/eaeca114/matchlogs/2023-2024/summary/Nathan-Ake-Match-Logs""Matches",matches
+""" scope=""row""15",ranker
+"""<a href=""/en/players/77e84962/Thiago-Alcantara""Thiago Alcántara",player
+""" data-tip=""NT""<a href=""/en/country/ESP/Spain-Football""<span style=""white-space: nowrap""<span class=""f-i f-es"" style=""""es",nationality
+"""MF",position
+"""<a href=""/en/squads/822bd0ba/Liverpool-Stats""Liverpool",team
+"""32-312",age
+"""1991",birth_year
+"""1",games
+"""0",games_starts
+"""6",minutes
+"""0.1",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.0",xg_assist
+"""0.0",npxg_xg_assist
+"""0",progressive_carries
+"""0",progressive_passes
+"""0",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.00",xg_assist_per90
+"""0.00",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.00",npxg_xg_assist_per90
+"""<a href=""/en/players/77e84962/matchlogs/2023-2024/summary/Thiago-Alcantara-Match-Logs""Matches",matches
+""" scope=""row""16",ranker
+"""<a href=""/en/players/cd1acf9d/Trent-Alexander-Arnold""Trent Alexander-Arnold",player
+""" data-tip=""NT""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""DF",position
+"""<a href=""/en/squads/822bd0ba/Liverpool-Stats""Liverpool",team
+"""25-133",age
+"""1998",birth_year
+"""21",games
+"""19",games_starts
+"""1,622",minutes
+"""18.0",minutes_90s
+"""2",goals
+"""4",assists
+"""6",goals_assists
+"""2",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""5",cards_yellow
+"""0",cards_red
+"""1.8",xg
+"""1.5",npxg
+"""5.5",xg_assist
+"""7.0",npxg_xg_assist
+"""31",progressive_carries
+"""153",progressive_passes
+"""65",progressive_passes_received
+"""0.11",goals_per90
+"""0.22",assists_per90
+"""0.33",goals_assists_per90
+"""0.11",goals_pens_per90
+"""0.33",goals_assists_pens_per90
+"""0.10",xg_per90
+"""0.30",xg_assist_per90
+"""0.40",xg_xg_assist_per90
+"""0.08",npxg_per90
+"""0.39",npxg_xg_assist_per90
+"""<a href=""/en/players/cd1acf9d/matchlogs/2023-2024/summary/Trent-Alexander-Arnold-Match-Logs""Matches",matches
+""" scope=""row""17",ranker
+"""<a href=""/en/players/7a2e46a8/Alisson""Alisson",player
+""" data-tip=""NT""<a href=""/en/country/BRA/Brazil-Football""<span style=""white-space: nowrap""<span class=""f-i f-br"" style=""""br",nationality
+"""GK",position
+"""<a href=""/en/squads/822bd0ba/Liverpool-Stats""Liverpool",team
+"""31-138",age
+"""1992",birth_year
+"""21",games
+"""21",games_starts
+"""1,890",minutes
+"""21.0",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.0",xg_assist
+"""0.0",npxg_xg_assist
+"""0",progressive_carries
+"""2",progressive_passes
+"""0",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.00",xg_assist_per90
+"""0.00",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.00",npxg_xg_assist_per90
+"""<a href=""/en/players/7a2e46a8/matchlogs/2023-2024/summary/Alisson-Match-Logs""Matches",matches
+""" scope=""row""18",ranker
+"""<a href=""/en/players/862a1c15/Miguel-Almiron""Miguel Almirón",player
+""" data-tip=""NT""<a href=""/en/country/PAR/Paraguay-Football""<span style=""white-space: nowrap""<span class=""f-i f-py"" style=""""py",nationality
+"""FW",position
+"""<a href=""/en/squads/b2b47a98/Newcastle-United-Stats""Newcastle Utd",team
+"""30-007",age
+"""1994",birth_year
+"""24",games
+"""20",games_starts
+"""1,597",minutes
+"""17.7",minutes_90s
+"""3",goals
+"""1",assists
+"""4",goals_assists
+"""3",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""4.0",xg
+"""4.0",npxg
+"""1.9",xg_assist
+"""5.9",npxg_xg_assist
+"""66",progressive_carries
+"""68",progressive_passes
+"""139",progressive_passes_received
+"""0.17",goals_per90
+"""0.06",assists_per90
+"""0.23",goals_assists_per90
+"""0.17",goals_pens_per90
+"""0.23",goals_assists_pens_per90
+"""0.23",xg_per90
+"""0.11",xg_assist_per90
+"""0.33",xg_xg_assist_per90
+"""0.23",npxg_per90
+"""0.33",npxg_xg_assist_per90
+"""<a href=""/en/players/862a1c15/matchlogs/2023-2024/summary/Miguel-Almiron-Match-Logs""Matches",matches
+""" scope=""row""19",ranker
+"""<a href=""/en/players/8b3ab7ad/Edson-Alvarez""Edson Álvarez",player
+""" data-tip=""NT""<a href=""/en/country/MEX/Mexico-Football""<span style=""white-space: nowrap""<span class=""f-i f-mx"" style=""""mx",nationality
+"""MF",position
+"""<a href=""/en/squads/7c21e445/West-Ham-United-Stats""West Ham",team
+"""26-116",age
+"""1997",birth_year
+"""20",games
+"""19",games_starts
+"""1,563",minutes
+"""17.4",minutes_90s
+"""0",goals
+"""1",assists
+"""1",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""8",cards_yellow
+"""0",cards_red
+"""0.5",xg
+"""0.5",npxg
+"""0.3",xg_assist
+"""0.8",npxg_xg_assist
+"""12",progressive_carries
+"""51",progressive_passes
+"""18",progressive_passes_received
+"""0.00",goals_per90
+"""0.06",assists_per90
+"""0.06",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.06",goals_assists_pens_per90
+"""0.03",xg_per90
+"""0.02",xg_assist_per90
+"""0.05",xg_xg_assist_per90
+"""0.03",npxg_per90
+"""0.05",npxg_xg_assist_per90
+"""<a href=""/en/players/8b3ab7ad/matchlogs/2023-2024/summary/Edson-Alvarez-Match-Logs""Matches",matches
+""" scope=""row""20",ranker
+"""<a href=""/en/players/15ab5a2b/Julian-Alvarez""Julián Álvarez",player
+""" data-tip=""NT""<a href=""/en/country/ARG/Argentina-Football""<span style=""white-space: nowrap""<span class=""f-i f-ar"" style=""""ar",nationality
+"""MF,FW",position
+"""<a href=""/en/squads/b8fd03ef/Manchester-City-Stats""Manchester City",team
+"""24-017",age
+"""2000",birth_year
+"""23",games
+"""23",games_starts
+"""1,930",minutes
+"""21.4",minutes_90s
+"""8",goals
+"""5",assists
+"""13",goals_assists
+"""7",goals_pens
+"""1",pens_made
+"""1",pens_att
+"""2",cards_yellow
+"""0",cards_red
+"""8.4",xg
+"""7.7",npxg
+"""5.1",xg_assist
+"""12.8",npxg_xg_assist
+"""40",progressive_carries
+"""70",progressive_passes
+"""122",progressive_passes_received
+"""0.37",goals_per90
+"""0.23",assists_per90
+"""0.61",goals_assists_per90
+"""0.33",goals_pens_per90
+"""0.56",goals_assists_pens_per90
+"""0.39",xg_per90
+"""0.24",xg_assist_per90
+"""0.63",xg_xg_assist_per90
+"""0.36",npxg_per90
+"""0.60",npxg_xg_assist_per90
+"""<a href=""/en/players/15ab5a2b/matchlogs/2023-2024/summary/Julian-Alvarez-Match-Logs""Matches",matches
+""" scope=""row""21",ranker
+"""<a href=""/en/players/2ee5b0c9/Zeki-Amdouni""Zeki Amdouni",player
+""" data-tip=""NT""<a href=""/en/country/SUI/Switzerland-Football""<span style=""white-space: nowrap""<span class=""f-i f-ch"" style=""""ch",nationality
+"""FW",position
+"""<a href=""/en/squads/943e8050/Burnley-Stats""Burnley",team
+"""23-075",age
+"""2000",birth_year
+"""23",games
+"""23",games_starts
+"""1,655",minutes
+"""18.4",minutes_90s
+"""4",goals
+"""1",assists
+"""5",goals_assists
+"""4",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""4.2",xg
+"""4.2",npxg
+"""1.4",xg_assist
+"""5.6",npxg_xg_assist
+"""55",progressive_carries
+"""43",progressive_passes
+"""79",progressive_passes_received
+"""0.22",goals_per90
+"""0.05",assists_per90
+"""0.27",goals_assists_per90
+"""0.22",goals_pens_per90
+"""0.27",goals_assists_pens_per90
+"""0.23",xg_per90
+"""0.08",xg_assist_per90
+"""0.31",xg_xg_assist_per90
+"""0.23",npxg_per90
+"""0.31",npxg_xg_assist_per90
+"""<a href=""/en/players/2ee5b0c9/matchlogs/2023-2024/summary/Zeki-Amdouni-Match-Logs""Matches",matches
+""" scope=""row""22",ranker
+"""<a href=""/en/players/5a2cb25d/Sofyan-Amrabat""Sofyan Amrabat",player
+""" data-tip=""NT""<a href=""/en/country/MAR/Morocco-Football""<span style=""white-space: nowrap""<span class=""f-i f-ma"" style=""""ma",nationality
+"""MF,DF",position
+"""<a href=""/en/squads/19538871/Manchester-United-Stats""Manchester Utd",team
+"""27-180",age
+"""1996",birth_year
+"""11",games
+"""7",games_starts
+"""614",minutes
+"""6.8",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""3",cards_yellow
+"""0",cards_red
+"""0.1",xg
+"""0.1",npxg
+"""0.2",xg_assist
+"""0.2",npxg_xg_assist
+"""5",progressive_carries
+"""50",progressive_passes
+"""8",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.01",xg_per90
+"""0.03",xg_assist_per90
+"""0.03",xg_xg_assist_per90
+"""0.01",npxg_per90
+"""0.03",npxg_xg_assist_per90
+"""<a href=""/en/players/5a2cb25d/matchlogs/2023-2024/summary/Sofyan-Amrabat-Match-Logs""Matches",matches
+""" scope=""row""23",ranker
+"""<a href=""/en/players/e34fc66d/Joachim-Andersen""Joachim Andersen",player
+""" data-tip=""NT""<a href=""/en/country/DEN/Denmark-Football""<span style=""white-space: nowrap""<span class=""f-i f-dk"" style=""""dk",nationality
+"""DF",position
+"""<a href=""/en/squads/47c64c55/Crystal-Palace-Stats""Crystal Palace",team
+"""27-262",age
+"""1996",birth_year
+"""24",games
+"""24",games_starts
+"""2,160",minutes
+"""24.0",minutes_90s
+"""2",goals
+"""2",assists
+"""4",goals_assists
+"""2",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""4",cards_yellow
+"""0",cards_red
+"""1.2",xg
+"""1.2",npxg
+"""1.5",xg_assist
+"""2.7",npxg_xg_assist
+"""19",progressive_carries
+"""107",progressive_passes
+"""6",progressive_passes_received
+"""0.08",goals_per90
+"""0.08",assists_per90
+"""0.17",goals_assists_per90
+"""0.08",goals_pens_per90
+"""0.17",goals_assists_pens_per90
+"""0.05",xg_per90
+"""0.06",xg_assist_per90
+"""0.11",xg_xg_assist_per90
+"""0.05",npxg_per90
+"""0.11",npxg_xg_assist_per90
+"""<a href=""/en/players/e34fc66d/matchlogs/2023-2024/summary/Joachim-Andersen-Match-Logs""Matches",matches
+""" scope=""row""24",ranker
+"""<a href=""/en/players/de31038e/Elliot-Anderson""Elliot Anderson",player
+""" data-tip=""YNT""<a href=""/en/country/SCO/Scotland-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-sct"" style=""""sct",nationality
+"""MF,FW",position
+"""<a href=""/en/squads/b2b47a98/Newcastle-United-Stats""Newcastle Utd",team
+"""21-103",age
+"""2002",birth_year
+"""9",games
+"""4",games_starts
+"""411",minutes
+"""4.6",minutes_90s
+"""0",goals
+"""1",assists
+"""1",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.7",xg
+"""0.7",npxg
+"""0.9",xg_assist
+"""1.6",npxg_xg_assist
+"""14",progressive_carries
+"""26",progressive_passes
+"""33",progressive_passes_received
+"""0.00",goals_per90
+"""0.22",assists_per90
+"""0.22",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.22",goals_assists_pens_per90
+"""0.16",xg_per90
+"""0.19",xg_assist_per90
+"""0.35",xg_xg_assist_per90
+"""0.16",npxg_per90
+"""0.35",npxg_xg_assist_per90
+"""<a href=""/en/players/de31038e/matchlogs/2023-2024/summary/Elliot-Anderson-Match-Logs""Matches",matches
+""" scope=""row""25",ranker
+"""<a href=""/en/players/e4238fb1/Jaidon-Anthony""Jaidon Anthony",player
+""" data-tip=""birth""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""FW",position
+"""<a href=""/en/squads/4ba7cbea/Bournemouth-Stats""Bournemouth",team
+"""24-078",age
+"""1999",birth_year
+"""3",games
+"""2",games_starts
+"""152",minutes
+"""1.7",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""0.1",xg
+"""0.1",npxg
+"""0.0",xg_assist
+"""0.1",npxg_xg_assist
+"""2",progressive_carries
+"""8",progressive_passes
+"""9",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.04",xg_per90
+"""0.00",xg_assist_per90
+"""0.04",xg_xg_assist_per90
+"""0.04",npxg_per90
+"""0.04",npxg_xg_assist_per90
+"""<a href=""/en/players/e4238fb1/matchlogs/2023-2024/summary/Jaidon-Anthony-Match-Logs""Matches",matches
+""" data-tip=""&lt;strong&gt;Rank&lt;/strong&gt;&lt;br&gt;This is a count of the rows from top to bottom.&lt;br&gt;It is recalculated following the sorting of a column.""Rk",ranker
+"""Player",player
+""" data-tip=""Nationality of the player.&lt;br&gt;First, we check our records in international play at senior level.&lt;br&gt;Then youth level.&lt;br&gt;Then citizenship presented on wikipedia.&lt;br&gt;Finally, we use their birthplace when available.""Nation",nationality
+""" data-tip=""&lt;strong&gt;Position&lt;/strong&gt;&lt;br&gt;Position most commonly played by the player&lt;br&gt;GK - Goalkeepers&lt;br&gt;DF - Defenders&lt;br&gt;MF - Midfielders&lt;br&gt;FW - Forwards&lt;br&gt;FB - Fullbacks&lt;br&gt;LB - Left Backs&lt;br&gt;RB - Right Backs&lt;br&gt;CB - Center Backs&lt;br&gt;DM - Defensive Midfielders&lt;br&gt;CM - Central Midfielders&lt;br&gt;LM - Left Midfielders&lt;br&gt;RM - Right Midfielders&lt;br&gt;WM - Wide Midfielders&lt;br&gt;LW - Left Wingers&lt;br&gt;RW - Right Wingers&lt;br&gt;AM - Attacking Midfielders&lt;br&gt;""Pos",position
+"""Squad",team
+""" data-tip=""&lt;strong&gt;Current age&lt;/strong&gt;&lt;br&gt;Age at season start&lt;br&gt;Given on August 1 for winter leagues&lt;br&gt;and February 1 for summer leagues.""Age",age
+""" data-tip=""&lt;strong&gt;Year of birth&lt;/strong&gt;&lt;br&gt;""Born",birth_year
+""" data-tip=""&lt;strong&gt;Matches Played&lt;/strong&gt;&lt;br&gt;Matches Played by the player or squad""MP",games
+""" data-tip=""Game or games started by player""Starts",games_starts
+""" data-tip=""&lt;strong&gt;Minutes&lt;/strong&gt;&lt;br&gt;""Min",minutes
+""" data-tip=""&lt;strong&gt;90s Played&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;90s played&lt;/strong&gt;&lt;br&gt;Minutes played divided by 90""90s",minutes_90s
+""" data-tip=""&lt;strong&gt;Goals&lt;/strong&gt;&lt;br&gt;Goals scored or allowed""Gls",goals
+""" data-tip=""&lt;strong&gt;Assists&lt;/strong&gt;&lt;br&gt;Assists""Ast",assists
+""" data-tip=""&lt;strong&gt;Goals + Assists&lt;/strong&gt;&lt;br&gt;Goals and Assists""G+A",goals_assists
+""" data-tip=""&lt;strong&gt;Non-Penalty Goals&lt;/strong&gt;&lt;br&gt;Non-Penalty Goals""G-PK",goals_pens
+""" data-tip=""&lt;strong&gt;Penalty Kicks Made&lt;/strong&gt;&lt;br&gt;Penalty Kicks Made""PK",pens_made
+""" data-tip=""&lt;strong&gt;Penalty Kicks Attempted&lt;/strong&gt;&lt;br&gt;Penalty Kicks Attempted""PKatt",pens_att
+""" data-tip=""&lt;strong&gt;Yellow Cards&lt;/strong&gt;&lt;br&gt;Yellow Cards""CrdY",cards_yellow
+""" data-tip=""&lt;strong&gt;Red Cards&lt;/strong&gt;&lt;br&gt;Red Cards""CrdR",cards_red
+""" data-tip=""&lt;strong&gt;xG: Expected Goals&lt;/strong&gt;&lt;br&gt;Expected Goals&lt;br&gt;xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.""xG",xg
+""" data-tip=""&lt;strong&gt;npxG: Non-Penalty xG&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Non-Penalty Expected Goals&lt;/strong&gt;&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.""npxG",npxg
+""" data-tip=""&lt;strong&gt;xAG: Exp. Assisted Goals&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Expected Assisted Goals&lt;/strong&gt;&lt;br&gt;xG which follows a pass that assists a shot&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.""xAG",xg_assist
+""" data-tip=""&lt;strong&gt;npxG + xAG&lt;/strong&gt;&lt;br&gt;Non-Penalty Expected Goals plus Assisted Goals&lt;br&gt;xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""npxG+xAG",npxg_xg_assist
+""" data-tip=""&lt;strong&gt;Progressive Carries&lt;/strong&gt;&lt;br&gt;Carries that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any carry into the penalty area. Excludes carries which end in the defending 50% of the pitch""PrgC",progressive_carries
+""" data-tip=""&lt;strong&gt;Progressive Passes&lt;/strong&gt;&lt;br&gt;Progressive Passes&lt;br&gt;Completed passes that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch""PrgP",progressive_passes
+""" data-tip=""&lt;strong&gt;Progressive Passes Rec&lt;/strong&gt;&lt;br&gt;Progressive Passes Received&lt;br&gt;Completed passes that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch""PrgR",progressive_passes_received
+""" data-tip=""&lt;strong&gt;Goals/90&lt;/strong&gt;&lt;br&gt;Goals Scored per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""Gls",goals_per90
+""" data-tip=""&lt;strong&gt;Assists/90&lt;/strong&gt;&lt;br&gt;Assists per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""Ast",assists_per90
+""" data-tip=""&lt;strong&gt;Goals + Assists/90&lt;/strong&gt;&lt;br&gt;Goals and Assists per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""G+A",goals_assists_per90
+""" data-tip=""&lt;strong&gt;Non-Penalty Goals/90&lt;/strong&gt;&lt;br&gt;Goals minus Penalty Kicks made per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""G-PK",goals_pens_per90
+""" data-tip=""&lt;strong&gt;Non-Penalty Goals + Assists/90&lt;/strong&gt;&lt;br&gt;Goals plus Assists minus Penalty Kicks made per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""G+A-PK",goals_assists_pens_per90
+""" data-tip=""&lt;strong&gt;xG/90&lt;/strong&gt;&lt;br&gt;Expected Goals per 90 minutes&lt;br&gt;xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""xG",xg_per90
+""" data-tip=""&lt;strong&gt;xAG/90&lt;/strong&gt;&lt;br&gt;Expected Assisted Goals per 90 minutes&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""xAG",xg_assist_per90
+""" data-tip=""&lt;strong&gt;xG + xAG/90&lt;/strong&gt;&lt;br&gt;Expected Goals plus Assisted Goals per 90 minutes&lt;br&gt;xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""xG+xAG",xg_xg_assist_per90
+""" data-tip=""&lt;strong&gt;npxG/90&lt;/strong&gt;&lt;br&gt;Non-Penalty Expected Goals per 90 minutes&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""npxG",npxg_per90
+""" data-tip=""&lt;strong&gt;npxG + xAG&lt;/strong&gt;&lt;br&gt;Non-Penalty Expected Goals plus Assisted Goals per 90 minutes&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""npxG+xAG",npxg_xg_assist_per90
+"""Matches",matches
+""" scope=""row""26",ranker
+"""<a href=""/en/players/ac05f970/Michail-Antonio""Michail Antonio",player
+""" data-tip=""NT""<a href=""/en/country/JAM/Jamaica-Football""<span style=""white-space: nowrap""<span class=""f-i f-jm"" style=""""jm",nationality
+"""FW",position
+"""<a href=""/en/squads/7c21e445/West-Ham-United-Stats""West Ham",team
+"""33-326",age
+"""1990",birth_year
+"""12",games
+"""11",games_starts
+"""813",minutes
+"""9.0",minutes_90s
+"""2",goals
+"""2",assists
+"""4",goals_assists
+"""2",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""2",cards_yellow
+"""0",cards_red
+"""1.8",xg
+"""1.8",npxg
+"""0.7",xg_assist
+"""2.5",npxg_xg_assist
+"""25",progressive_carries
+"""10",progressive_passes
+"""46",progressive_passes_received
+"""0.22",goals_per90
+"""0.22",assists_per90
+"""0.44",goals_assists_per90
+"""0.22",goals_pens_per90
+"""0.44",goals_assists_pens_per90
+"""0.20",xg_per90
+"""0.07",xg_assist_per90
+"""0.28",xg_xg_assist_per90
+"""0.20",npxg_per90
+"""0.28",npxg_xg_assist_per90
+"""<a href=""/en/players/ac05f970/matchlogs/2023-2024/summary/Michail-Antonio-Match-Logs""Matches",matches
+""" scope=""row""27",ranker
+"""<a href=""/en/players/99127249/Antony""Antony",player
+""" data-tip=""NT""<a href=""/en/country/BRA/Brazil-Football""<span style=""white-space: nowrap""<span class=""f-i f-br"" style=""""br",nationality
+"""FW",position
+"""<a href=""/en/squads/19538871/Manchester-United-Stats""Manchester Utd",team
+"""23-358",age
+"""2000",birth_year
+"""19",games
+"""11",games_starts
+"""928",minutes
+"""10.3",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""3",cards_yellow
+"""0",cards_red
+"""1.5",xg
+"""1.5",npxg
+"""2.1",xg_assist
+"""3.6",npxg_xg_assist
+"""35",progressive_carries
+"""49",progressive_passes
+"""113",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.14",xg_per90
+"""0.21",xg_assist_per90
+"""0.35",xg_xg_assist_per90
+"""0.14",npxg_per90
+"""0.35",npxg_xg_assist_per90
+"""<a href=""/en/players/99127249/matchlogs/2023-2024/summary/Antony-Match-Logs""Matches",matches
+""" scope=""row""28",ranker
+"""<a href=""/en/players/05e8ca6d/Cameron-Archer""Cameron Archer",player
+""" data-tip=""YNT""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""FW,MF",position
+"""<a href=""/en/squads/1df6b87e/Sheffield-United-Stats""Sheffield Utd",team
+"""22-211",age
+"""2001",birth_year
+"""21",games
+"""16",games_starts
+"""1,449",minutes
+"""16.1",minutes_90s
+"""4",goals
+"""0",assists
+"""4",goals_assists
+"""4",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""3.9",xg
+"""3.9",npxg
+"""1.7",xg_assist
+"""5.6",npxg_xg_assist
+"""27",progressive_carries
+"""12",progressive_passes
+"""81",progressive_passes_received
+"""0.25",goals_per90
+"""0.00",assists_per90
+"""0.25",goals_assists_per90
+"""0.25",goals_pens_per90
+"""0.25",goals_assists_pens_per90
+"""0.24",xg_per90
+"""0.10",xg_assist_per90
+"""0.35",xg_xg_assist_per90
+"""0.24",npxg_per90
+"""0.35",npxg_xg_assist_per90
+"""<a href=""/en/players/05e8ca6d/matchlogs/2023-2024/summary/Cameron-Archer-Match-Logs""Matches",matches
+""" scope=""row""29",ranker
+"""<a href=""/en/players/05e8ca6d/Cameron-Archer""Cameron Archer",player
+""" data-tip=""YNT""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""MF",position
+"""<a href=""/en/squads/8602292d/Aston-Villa-Stats""Aston Villa",team
+"""22-211",age
+"""2001",birth_year
+"""1",games
+"""0",games_starts
+"""6",minutes
+"""0.1",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.0",xg_assist
+"""0.0",npxg_xg_assist
+"""1",progressive_carries
+"""0",progressive_passes
+"""0",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.00",xg_assist_per90
+"""0.00",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.00",npxg_xg_assist_per90
+"""<a href=""/en/players/05e8ca6d/matchlogs/2023-2024/summary/Cameron-Archer-Match-Logs""Matches",matches
+""" scope=""row""30",ranker
+"""<a href=""/en/players/2f965a72/Alphonse-Areola""Alphonse Areola",player
+""" data-tip=""NT""<a href=""/en/country/FRA/France-Football""<span style=""white-space: nowrap""<span class=""f-i f-fr"" style=""""fr",nationality
+"""GK",position
+"""<a href=""/en/squads/7c21e445/West-Ham-United-Stats""West Ham",team
+"""30-355",age
+"""1993",birth_year
+"""21",games
+"""21",games_starts
+"""1,844",minutes
+"""20.5",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.0",xg_assist
+"""0.0",npxg_xg_assist
+"""0",progressive_carries
+"""1",progressive_passes
+"""0",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.00",xg_assist_per90
+"""0.00",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.00",npxg_xg_assist_per90
+"""<a href=""/en/players/2f965a72/matchlogs/2023-2024/summary/Alphonse-Areola-Match-Logs""Matches",matches
+""" scope=""row""31",ranker
+"""<a href=""/en/players/b026bbf6/Lorenz-Assignon""Lorenz Assignon",player
+""" data-tip=""other""<a href=""/en/country/TOG/Togo-Football""<span style=""white-space: nowrap""<span class=""f-i f-tg"" style=""""tg",nationality
+"""DF",position
+"""<a href=""/en/squads/943e8050/Burnley-Stats""Burnley",team
+"""23-240",age
+"""2000",birth_year
+"""2",games
+"""2",games_starts
+"""179",minutes
+"""2.0",minutes_90s
+"""0",goals
+"""1",assists
+"""1",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.9",xg_assist
+"""0.9",npxg_xg_assist
+"""4",progressive_carries
+"""3",progressive_passes
+"""4",progressive_passes_received
+"""0.00",goals_per90
+"""0.50",assists_per90
+"""0.50",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.50",goals_assists_pens_per90
+"""0.02",xg_per90
+"""0.45",xg_assist_per90
+"""0.46",xg_xg_assist_per90
+"""0.02",npxg_per90
+"""0.46",npxg_xg_assist_per90
+"""<a href=""/en/players/b026bbf6/matchlogs/2023-2024/summary/Lorenz-Assignon-Match-Logs""Matches",matches
+""" scope=""row""32",ranker
+"""<a href=""/en/players/5c2b4f07/Serge-Aurier""Serge Aurier",player
+""" data-tip=""NT""<a href=""/en/country/CIV/Cote-dIvoire-Football""<span style=""white-space: nowrap""<span class=""f-i f-ci"" style=""""ci",nationality
+"""DF,MF",position
+"""<a href=""/en/squads/e4a775cb/Nottingham-Forest-Stats""Nott'ham Forest",team
+"""31-055",age
+"""1992",birth_year
+"""12",games
+"""10",games_starts
+"""833",minutes
+"""9.3",minutes_90s
+"""0",goals
+"""2",assists
+"""2",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""2",cards_yellow
+"""0",cards_red
+"""0.2",xg
+"""0.2",npxg
+"""0.5",xg_assist
+"""0.6",npxg_xg_assist
+"""10",progressive_carries
+"""47",progressive_passes
+"""29",progressive_passes_received
+"""0.00",goals_per90
+"""0.22",assists_per90
+"""0.22",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.22",goals_assists_pens_per90
+"""0.02",xg_per90
+"""0.05",xg_assist_per90
+"""0.07",xg_xg_assist_per90
+"""0.02",npxg_per90
+"""0.07",npxg_xg_assist_per90
+"""<a href=""/en/players/5c2b4f07/matchlogs/2023-2024/summary/Serge-Aurier-Match-Logs""Matches",matches
+""" scope=""row""33",ranker
+"""<a href=""/en/players/e5478b87/Taiwo-Awoniyi""Taiwo Awoniyi",player
+""" data-tip=""NT""<a href=""/en/country/NGA/Nigeria-Football""<span style=""white-space: nowrap""<span class=""f-i f-ng"" style=""""ng",nationality
+"""FW",position
+"""<a href=""/en/squads/e4a775cb/Nottingham-Forest-Stats""Nott'ham Forest",team
+"""26-189",age
+"""1997",birth_year
+"""13",games
+"""10",games_starts
+"""868",minutes
+"""9.6",minutes_90s
+"""5",goals
+"""2",assists
+"""7",goals_assists
+"""5",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""4.0",xg
+"""4.0",npxg
+"""0.8",xg_assist
+"""4.8",npxg_xg_assist
+"""8",progressive_carries
+"""12",progressive_passes
+"""33",progressive_passes_received
+"""0.52",goals_per90
+"""0.21",assists_per90
+"""0.73",goals_assists_per90
+"""0.52",goals_pens_per90
+"""0.73",goals_assists_pens_per90
+"""0.42",xg_per90
+"""0.08",xg_assist_per90
+"""0.50",xg_xg_assist_per90
+"""0.42",npxg_per90
+"""0.50",npxg_xg_assist_per90
+"""<a href=""/en/players/e5478b87/matchlogs/2023-2024/summary/Taiwo-Awoniyi-Match-Logs""Matches",matches
+""" scope=""row""34",ranker
+"""<a href=""/en/players/da052c14/Jordan-Ayew""Jordan Ayew",player
+""" data-tip=""NT""<a href=""/en/country/GHA/Ghana-Football""<span style=""white-space: nowrap""<span class=""f-i f-gh"" style=""""gh",nationality
+"""FW,MF",position
+"""<a href=""/en/squads/47c64c55/Crystal-Palace-Stats""Crystal Palace",team
+"""32-159",age
+"""1991",birth_year
+"""22",games
+"""21",games_starts
+"""1,816",minutes
+"""20.2",minutes_90s
+"""2",goals
+"""5",assists
+"""7",goals_assists
+"""2",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""6",cards_yellow
+"""1",cards_red
+"""2.8",xg
+"""2.8",npxg
+"""3.5",xg_assist
+"""6.3",npxg_xg_assist
+"""57",progressive_carries
+"""51",progressive_passes
+"""135",progressive_passes_received
+"""0.10",goals_per90
+"""0.25",assists_per90
+"""0.35",goals_assists_per90
+"""0.10",goals_pens_per90
+"""0.35",goals_assists_pens_per90
+"""0.14",xg_per90
+"""0.17",xg_assist_per90
+"""0.31",xg_xg_assist_per90
+"""0.14",npxg_per90
+"""0.31",npxg_xg_assist_per90
+"""<a href=""/en/players/da052c14/matchlogs/2023-2024/summary/Jordan-Ayew-Match-Logs""Matches",matches
+""" scope=""row""35",ranker
+"""<a href=""/en/players/06df8256/Benoit-Badiashile""Benoît Badiashile",player
+""" data-tip=""NT""<a href=""/en/country/FRA/France-Football""<span style=""white-space: nowrap""<span class=""f-i f-fr"" style=""""fr",nationality
+"""DF",position
+"""<a href=""/en/squads/cff3d9bb/Chelsea-Stats""Chelsea",team
+"""22-328",age
+"""2001",birth_year
+"""8",games
+"""6",games_starts
+"""560",minutes
+"""6.2",minutes_90s
+"""0",goals
+"""1",assists
+"""1",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""0.1",xg
+"""0.1",npxg
+"""0.5",xg_assist
+"""0.7",npxg_xg_assist
+"""1",progressive_carries
+"""25",progressive_passes
+"""1",progressive_passes_received
+"""0.00",goals_per90
+"""0.16",assists_per90
+"""0.16",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.16",goals_assists_pens_per90
+"""0.02",xg_per90
+"""0.09",xg_assist_per90
+"""0.11",xg_xg_assist_per90
+"""0.02",npxg_per90
+"""0.11",npxg_xg_assist_per90
+"""<a href=""/en/players/06df8256/matchlogs/2023-2024/summary/Benoit-Badiashile-Match-Logs""Matches",matches
+""" scope=""row""36",ranker
+"""<a href=""/en/players/3a233281/Leon-Bailey""Leon Bailey",player
+""" data-tip=""NT""<a href=""/en/country/JAM/Jamaica-Football""<span style=""white-space: nowrap""<span class=""f-i f-jm"" style=""""jm",nationality
+"""MF,FW",position
+"""<a href=""/en/squads/8602292d/Aston-Villa-Stats""Aston Villa",team
+"""26-192",age
+"""1997",birth_year
+"""22",games
+"""11",games_starts
+"""1,087",minutes
+"""12.1",minutes_90s
+"""7",goals
+"""6",assists
+"""13",goals_assists
+"""7",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""3",cards_yellow
+"""0",cards_red
+"""3.3",xg
+"""3.3",npxg
+"""4.9",xg_assist
+"""8.2",npxg_xg_assist
+"""62",progressive_carries
+"""42",progressive_passes
+"""137",progressive_passes_received
+"""0.58",goals_per90
+"""0.50",assists_per90
+"""1.08",goals_assists_per90
+"""0.58",goals_pens_per90
+"""1.08",goals_assists_pens_per90
+"""0.27",xg_per90
+"""0.41",xg_assist_per90
+"""0.68",xg_xg_assist_per90
+"""0.27",npxg_per90
+"""0.68",npxg_xg_assist_per90
+"""<a href=""/en/players/3a233281/matchlogs/2023-2024/summary/Leon-Bailey-Match-Logs""Matches",matches
+""" scope=""row""37",ranker
+"""<a href=""/en/players/394854c4/George-Baldock""George Baldock",player
+""" data-tip=""NT""<a href=""/en/country/GRE/Greece-Football""<span style=""white-space: nowrap""<span class=""f-i f-gr"" style=""""gr",nationality
+"""DF",position
+"""<a href=""/en/squads/1df6b87e/Sheffield-United-Stats""Sheffield Utd",team
+"""30-345",age
+"""1993",birth_year
+"""11",games
+"""10",games_starts
+"""834",minutes
+"""9.3",minutes_90s
+"""0",goals
+"""1",assists
+"""1",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""4",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.7",xg_assist
+"""0.7",npxg_xg_assist
+"""8",progressive_carries
+"""30",progressive_passes
+"""24",progressive_passes_received
+"""0.00",goals_per90
+"""0.11",assists_per90
+"""0.11",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.11",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.08",xg_assist_per90
+"""0.08",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.08",npxg_xg_assist_per90
+"""<a href=""/en/players/394854c4/matchlogs/2023-2024/summary/George-Baldock-Match-Logs""Matches",matches
+""" scope=""row""38",ranker
+"""<a href=""/en/players/a1390d2f/Carlos-Baleba""Carlos Baleba",player
+""" data-tip=""birth""<a href=""/en/country/CMR/Cameroon-Football""<span style=""white-space: nowrap""<span class=""f-i f-cm"" style=""""cm",nationality
+"""MF",position
+"""<a href=""/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats""Brighton",team
+"""20-045",age
+"""2004",birth_year
+"""15",games
+"""7",games_starts
+"""597",minutes
+"""6.6",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""4",cards_yellow
+"""0",cards_red
+"""0.4",xg
+"""0.4",npxg
+"""0.1",xg_assist
+"""0.5",npxg_xg_assist
+"""4",progressive_carries
+"""27",progressive_passes
+"""2",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.06",xg_per90
+"""0.02",xg_assist_per90
+"""0.08",xg_xg_assist_per90
+"""0.06",npxg_per90
+"""0.08",npxg_xg_assist_per90
+"""<a href=""/en/players/a1390d2f/matchlogs/2023-2024/summary/Carlos-Baleba-Match-Logs""Matches",matches
+""" scope=""row""39",ranker
+"""<a href=""/en/players/f449640d/Fode-Ballo-Toure""Fodé Ballo-Touré",player
+""" data-tip=""NT""<a href=""/en/country/SEN/Senegal-Football""<span style=""white-space: nowrap""<span class=""f-i f-sn"" style=""""sn",nationality
+"""DF,MF",position
+"""<a href=""/en/squads/fd962109/Fulham-Stats""Fulham",team
+"""27-045",age
+"""1997",birth_year
+"""5",games
+"""0",games_starts
+"""58",minutes
+"""0.6",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.0",xg_assist
+"""0.0",npxg_xg_assist
+"""5",progressive_carries
+"""0",progressive_passes
+"""4",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.00",xg_assist_per90
+"""0.00",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.00",npxg_xg_assist_per90
+"""<a href=""/en/players/f449640d/matchlogs/2023-2024/summary/Fode-Ballo-Toure-Match-Logs""Matches",matches
+""" scope=""row""40",ranker
+"""<a href=""/en/players/2886c9b5/Shandon-Baptiste""Shandon Baptiste",player
+""" data-tip=""NT""<a href=""/en/country/GRN/Grenada-Football""<span style=""white-space: nowrap""<span class=""f-i f-gd"" style=""""gd",nationality
+"""MF",position
+"""<a href=""/en/squads/cd051869/Brentford-Stats""Brentford",team
+"""25-315",age
+"""1998",birth_year
+"""9",games
+"""2",games_starts
+"""218",minutes
+"""2.4",minutes_90s
+"""1",goals
+"""0",assists
+"""1",goals_assists
+"""1",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.9",xg
+"""0.9",npxg
+"""0.1",xg_assist
+"""1.0",npxg_xg_assist
+"""3",progressive_carries
+"""5",progressive_passes
+"""0",progressive_passes_received
+"""0.41",goals_per90
+"""0.00",assists_per90
+"""0.41",goals_assists_per90
+"""0.41",goals_pens_per90
+"""0.41",goals_assists_pens_per90
+"""0.37",xg_per90
+"""0.05",xg_assist_per90
+"""0.41",xg_xg_assist_per90
+"""0.37",npxg_per90
+"""0.41",npxg_xg_assist_per90
+"""<a href=""/en/players/2886c9b5/matchlogs/2023-2024/summary/Shandon-Baptiste-Match-Logs""Matches",matches
+""" scope=""row""41",ranker
+"""<a href=""/en/players/3a24769f/Ross-Barkley""Ross Barkley",player
+""" data-tip=""NT""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""MF",position
+"""<a href=""/en/squads/e297cd13/Luton-Town-Stats""Luton Town",team
+"""30-074",age
+"""1993",birth_year
+"""18",games
+"""16",games_starts
+"""1,426",minutes
+"""15.8",minutes_90s
+"""3",goals
+"""3",assists
+"""6",goals_assists
+"""3",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""3",cards_yellow
+"""0",cards_red
+"""2.6",xg
+"""2.6",npxg
+"""3.0",xg_assist
+"""5.6",npxg_xg_assist
+"""24",progressive_carries
+"""94",progressive_passes
+"""18",progressive_passes_received
+"""0.19",goals_per90
+"""0.19",assists_per90
+"""0.38",goals_assists_per90
+"""0.19",goals_pens_per90
+"""0.38",goals_assists_pens_per90
+"""0.17",xg_per90
+"""0.19",xg_assist_per90
+"""0.35",xg_xg_assist_per90
+"""0.17",npxg_per90
+"""0.35",npxg_xg_assist_per90
+"""<a href=""/en/players/3a24769f/matchlogs/2023-2024/summary/Ross-Barkley-Match-Logs""Matches",matches
+""" scope=""row""42",ranker
+"""<a href=""/en/players/3ea50f67/Harvey-Barnes""Harvey Barnes",player
+""" data-tip=""NT""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""FW",position
+"""<a href=""/en/squads/b2b47a98/Newcastle-United-Stats""Newcastle Utd",team
+"""26-070",age
+"""1997",birth_year
+"""8",games
+"""2",games_starts
+"""246",minutes
+"""2.7",minutes_90s
+"""2",goals
+"""1",assists
+"""3",goals_assists
+"""2",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""1.0",xg
+"""1.0",npxg
+"""0.9",xg_assist
+"""1.9",npxg_xg_assist
+"""18",progressive_carries
+"""7",progressive_passes
+"""24",progressive_passes_received
+"""0.73",goals_per90
+"""0.37",assists_per90
+"""1.10",goals_assists_per90
+"""0.73",goals_pens_per90
+"""1.10",goals_assists_pens_per90
+"""0.38",xg_per90
+"""0.32",xg_assist_per90
+"""0.70",xg_xg_assist_per90
+"""0.38",npxg_per90
+"""0.70",npxg_xg_assist_per90
+"""<a href=""/en/players/3ea50f67/matchlogs/2023-2024/summary/Harvey-Barnes-Match-Logs""Matches",matches
+""" scope=""row""43",ranker
+"""<a href=""/en/players/1aa84968/Chris-Basham""Chris Basham",player
+""" data-tip=""birth""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""DF,MF",position
+"""<a href=""/en/squads/1df6b87e/Sheffield-United-Stats""Sheffield Utd",team
+"""35-212",age
+"""1988",birth_year
+"""8",games
+"""3",games_starts
+"""321",minutes
+"""3.6",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""0.1",xg
+"""0.1",npxg
+"""0.3",xg_assist
+"""0.4",npxg_xg_assist
+"""1",progressive_carries
+"""7",progressive_passes
+"""6",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.04",xg_per90
+"""0.07",xg_assist_per90
+"""0.10",xg_xg_assist_per90
+"""0.04",npxg_per90
+"""0.10",npxg_xg_assist_per90
+"""<a href=""/en/players/1aa84968/matchlogs/2023-2024/summary/Chris-Basham-Match-Logs""Matches",matches
+""" scope=""row""44",ranker
+"""<a href=""/en/players/a36524bf/Calvin-Bassey""Calvin Bassey",player
+""" data-tip=""NT""<a href=""/en/country/NGA/Nigeria-Football""<span style=""white-space: nowrap""<span class=""f-i f-ng"" style=""""ng",nationality
+"""DF",position
+"""<a href=""/en/squads/fd962109/Fulham-Stats""Fulham",team
+"""24-048",age
+"""1999",birth_year
+"""15",games
+"""12",games_starts
+"""1,117",minutes
+"""12.4",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""4",cards_yellow
+"""1",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.0",xg_assist
+"""0.1",npxg_xg_assist
+"""6",progressive_carries
+"""32",progressive_passes
+"""4",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.00",xg_assist_per90
+"""0.01",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.01",npxg_xg_assist_per90
+"""<a href=""/en/players/a36524bf/matchlogs/2023-2024/summary/Calvin-Bassey-Match-Logs""Matches",matches
+""" scope=""row""45",ranker
+"""<a href=""/en/players/a011a1e9/Owen-Beck""Owen Beck",player
+""" data-tip=""YNT""<a href=""/en/country/WAL/Wales-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-wls"" style=""""wls",nationality
+"""DF",position
+"""<a href=""/en/squads/822bd0ba/Liverpool-Stats""Liverpool",team
+"""21-192",age
+"""2002",birth_year
+"""1",games
+"""0",games_starts
+"""8",minutes
+"""0.1",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.0",xg_assist
+"""0.0",npxg_xg_assist
+"""0",progressive_carries
+"""0",progressive_passes
+"""1",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.00",xg_assist_per90
+"""0.00",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.00",npxg_xg_assist_per90
+"""<a href=""/en/players/a011a1e9/matchlogs/2023-2024/summary/Owen-Beck-Match-Logs""Matches",matches
+""" scope=""row""46",ranker
+"""<a href=""/en/players/50dc94ce/Donny-van-de-Beek""Donny van de Beek",player
+""" data-tip=""NT""<a href=""/en/country/NED/Netherlands-Football""<span style=""white-space: nowrap""<span class=""f-i f-nl"" style=""""nl",nationality
+"""DF",position
+"""<a href=""/en/squads/19538871/Manchester-United-Stats""Manchester Utd",team
+"""26-305",age
+"""1997",birth_year
+"""1",games
+"""0",games_starts
+"""3",minutes
+"""0.0",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.1",xg_assist
+"""0.2",npxg_xg_assist
+"""0",progressive_carries
+"""0",progressive_passes
+"""1",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""1.09",xg_per90
+"""4.44",xg_assist_per90
+"""5.54",xg_xg_assist_per90
+"""1.09",npxg_per90
+"""5.54",npxg_xg_assist_per90
+"""<a href=""/en/players/50dc94ce/matchlogs/2023-2024/summary/Donny-van-de-Beek-Match-Logs""Matches",matches
+""" scope=""row""47",ranker
+"""<a href=""/en/players/399e9474/Amarii-Bell""Amari'i Bell",player
+""" data-tip=""NT""<a href=""/en/country/JAM/Jamaica-Football""<span style=""white-space: nowrap""<span class=""f-i f-jm"" style=""""jm",nationality
+"""DF",position
+"""<a href=""/en/squads/e297cd13/Luton-Town-Stats""Luton Town",team
+"""29-288",age
+"""1994",birth_year
+"""18",games
+"""18",games_starts
+"""1,535",minutes
+"""17.1",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.3",xg
+"""0.3",npxg
+"""0.4",xg_assist
+"""0.7",npxg_xg_assist
+"""27",progressive_carries
+"""67",progressive_passes
+"""9",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.02",xg_per90
+"""0.02",xg_assist_per90
+"""0.04",xg_xg_assist_per90
+"""0.02",npxg_per90
+"""0.04",npxg_xg_assist_per90
+"""<a href=""/en/players/399e9474/matchlogs/2023-2024/summary/Amarii-Bell-Match-Logs""Matches",matches
+""" scope=""row""48",ranker
+"""<a href=""/en/players/10f0fdd3/Jean-Ricner-Bellegarde""Jean-Ricner Bellegarde",player
+""" data-tip=""YNT""<a href=""/en/country/FRA/France-Football""<span style=""white-space: nowrap""<span class=""f-i f-fr"" style=""""fr",nationality
+"""MF,FW",position
+"""<a href=""/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats""Wolves",team
+"""25-235",age
+"""1998",birth_year
+"""15",games
+"""7",games_starts
+"""693",minutes
+"""7.7",minutes_90s
+"""2",goals
+"""1",assists
+"""3",goals_assists
+"""2",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""1",cards_red
+"""0.9",xg
+"""0.9",npxg
+"""0.5",xg_assist
+"""1.4",npxg_xg_assist
+"""24",progressive_carries
+"""32",progressive_passes
+"""35",progressive_passes_received
+"""0.26",goals_per90
+"""0.13",assists_per90
+"""0.39",goals_assists_per90
+"""0.26",goals_pens_per90
+"""0.39",goals_assists_pens_per90
+"""0.12",xg_per90
+"""0.06",xg_assist_per90
+"""0.18",xg_xg_assist_per90
+"""0.12",npxg_per90
+"""0.18",npxg_xg_assist_per90
+"""<a href=""/en/players/10f0fdd3/matchlogs/2023-2024/summary/Jean-Ricner-Bellegarde-Match-Logs""Matches",matches
+""" scope=""row""49",ranker
+"""<a href=""/en/players/9ade9ce1/Anis-Ben-Slimane""Anis Ben Slimane",player
+""" data-tip=""NT""<a href=""/en/country/TUN/Tunisia-Football""<span style=""white-space: nowrap""<span class=""f-i f-tn"" style=""""tn",nationality
+"""MF",position
+"""<a href=""/en/squads/1df6b87e/Sheffield-United-Stats""Sheffield Utd",team
+"""22-338",age
+"""2001",birth_year
+"""11",games
+"""4",games_starts
+"""366",minutes
+"""4.1",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""2",cards_yellow
+"""0",cards_red
+"""0.7",xg
+"""0.7",npxg
+"""0.3",xg_assist
+"""1.0",npxg_xg_assist
+"""2",progressive_carries
+"""9",progressive_passes
+"""17",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.17",xg_per90
+"""0.07",xg_assist_per90
+"""0.24",xg_xg_assist_per90
+"""0.17",npxg_per90
+"""0.24",npxg_xg_assist_per90
+"""<a href=""/en/players/9ade9ce1/matchlogs/2023-2024/summary/Anis-Ben-Slimane-Match-Logs""Matches",matches
+""" scope=""row""50",ranker
+"""<a href=""/en/players/5a04fd92/Said-Benrahma""Saïd Benrahma",player
+""" data-tip=""NT""<a href=""/en/country/ALG/Algeria-Football""<span style=""white-space: nowrap""<span class=""f-i f-dz"" style=""""dz",nationality
+"""FW,MF",position
+"""<a href=""/en/squads/7c21e445/West-Ham-United-Stats""West Ham",team
+"""28-191",age
+"""1995",birth_year
+"""13",games
+"""5",games_starts
+"""620",minutes
+"""6.9",minutes_90s
+"""0",goals
+"""1",assists
+"""1",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""1",pens_att
+"""1",cards_yellow
+"""0",cards_red
+"""1.8",xg
+"""1.0",npxg
+"""1.4",xg_assist
+"""2.5",npxg_xg_assist
+"""28",progressive_carries
+"""28",progressive_passes
+"""70",progressive_passes_received
+"""0.00",goals_per90
+"""0.15",assists_per90
+"""0.15",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.15",goals_assists_pens_per90
+"""0.27",xg_per90
+"""0.21",xg_assist_per90
+"""0.47",xg_xg_assist_per90
+"""0.15",npxg_per90
+"""0.36",npxg_xg_assist_per90
+"""<a href=""/en/players/5a04fd92/matchlogs/2023-2024/summary/Said-Benrahma-Match-Logs""Matches",matches
+""" data-tip=""&lt;strong&gt;Rank&lt;/strong&gt;&lt;br&gt;This is a count of the rows from top to bottom.&lt;br&gt;It is recalculated following the sorting of a column.""Rk",ranker
+"""Player",player
+""" data-tip=""Nationality of the player.&lt;br&gt;First, we check our records in international play at senior level.&lt;br&gt;Then youth level.&lt;br&gt;Then citizenship presented on wikipedia.&lt;br&gt;Finally, we use their birthplace when available.""Nation",nationality
+""" data-tip=""&lt;strong&gt;Position&lt;/strong&gt;&lt;br&gt;Position most commonly played by the player&lt;br&gt;GK - Goalkeepers&lt;br&gt;DF - Defenders&lt;br&gt;MF - Midfielders&lt;br&gt;FW - Forwards&lt;br&gt;FB - Fullbacks&lt;br&gt;LB - Left Backs&lt;br&gt;RB - Right Backs&lt;br&gt;CB - Center Backs&lt;br&gt;DM - Defensive Midfielders&lt;br&gt;CM - Central Midfielders&lt;br&gt;LM - Left Midfielders&lt;br&gt;RM - Right Midfielders&lt;br&gt;WM - Wide Midfielders&lt;br&gt;LW - Left Wingers&lt;br&gt;RW - Right Wingers&lt;br&gt;AM - Attacking Midfielders&lt;br&gt;""Pos",position
+"""Squad",team
+""" data-tip=""&lt;strong&gt;Current age&lt;/strong&gt;&lt;br&gt;Age at season start&lt;br&gt;Given on August 1 for winter leagues&lt;br&gt;and February 1 for summer leagues.""Age",age
+""" data-tip=""&lt;strong&gt;Year of birth&lt;/strong&gt;&lt;br&gt;""Born",birth_year
+""" data-tip=""&lt;strong&gt;Matches Played&lt;/strong&gt;&lt;br&gt;Matches Played by the player or squad""MP",games
+""" data-tip=""Game or games started by player""Starts",games_starts
+""" data-tip=""&lt;strong&gt;Minutes&lt;/strong&gt;&lt;br&gt;""Min",minutes
+""" data-tip=""&lt;strong&gt;90s Played&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;90s played&lt;/strong&gt;&lt;br&gt;Minutes played divided by 90""90s",minutes_90s
+""" data-tip=""&lt;strong&gt;Goals&lt;/strong&gt;&lt;br&gt;Goals scored or allowed""Gls",goals
+""" data-tip=""&lt;strong&gt;Assists&lt;/strong&gt;&lt;br&gt;Assists""Ast",assists
+""" data-tip=""&lt;strong&gt;Goals + Assists&lt;/strong&gt;&lt;br&gt;Goals and Assists""G+A",goals_assists
+""" data-tip=""&lt;strong&gt;Non-Penalty Goals&lt;/strong&gt;&lt;br&gt;Non-Penalty Goals""G-PK",goals_pens
+""" data-tip=""&lt;strong&gt;Penalty Kicks Made&lt;/strong&gt;&lt;br&gt;Penalty Kicks Made""PK",pens_made
+""" data-tip=""&lt;strong&gt;Penalty Kicks Attempted&lt;/strong&gt;&lt;br&gt;Penalty Kicks Attempted""PKatt",pens_att
+""" data-tip=""&lt;strong&gt;Yellow Cards&lt;/strong&gt;&lt;br&gt;Yellow Cards""CrdY",cards_yellow
+""" data-tip=""&lt;strong&gt;Red Cards&lt;/strong&gt;&lt;br&gt;Red Cards""CrdR",cards_red
+""" data-tip=""&lt;strong&gt;xG: Expected Goals&lt;/strong&gt;&lt;br&gt;Expected Goals&lt;br&gt;xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.""xG",xg
+""" data-tip=""&lt;strong&gt;npxG: Non-Penalty xG&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Non-Penalty Expected Goals&lt;/strong&gt;&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.""npxG",npxg
+""" data-tip=""&lt;strong&gt;xAG: Exp. Assisted Goals&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Expected Assisted Goals&lt;/strong&gt;&lt;br&gt;xG which follows a pass that assists a shot&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.""xAG",xg_assist
+""" data-tip=""&lt;strong&gt;npxG + xAG&lt;/strong&gt;&lt;br&gt;Non-Penalty Expected Goals plus Assisted Goals&lt;br&gt;xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""npxG+xAG",npxg_xg_assist
+""" data-tip=""&lt;strong&gt;Progressive Carries&lt;/strong&gt;&lt;br&gt;Carries that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any carry into the penalty area. Excludes carries which end in the defending 50% of the pitch""PrgC",progressive_carries
+""" data-tip=""&lt;strong&gt;Progressive Passes&lt;/strong&gt;&lt;br&gt;Progressive Passes&lt;br&gt;Completed passes that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch""PrgP",progressive_passes
+""" data-tip=""&lt;strong&gt;Progressive Passes Rec&lt;/strong&gt;&lt;br&gt;Progressive Passes Received&lt;br&gt;Completed passes that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch""PrgR",progressive_passes_received
+""" data-tip=""&lt;strong&gt;Goals/90&lt;/strong&gt;&lt;br&gt;Goals Scored per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""Gls",goals_per90
+""" data-tip=""&lt;strong&gt;Assists/90&lt;/strong&gt;&lt;br&gt;Assists per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""Ast",assists_per90
+""" data-tip=""&lt;strong&gt;Goals + Assists/90&lt;/strong&gt;&lt;br&gt;Goals and Assists per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""G+A",goals_assists_per90
+""" data-tip=""&lt;strong&gt;Non-Penalty Goals/90&lt;/strong&gt;&lt;br&gt;Goals minus Penalty Kicks made per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""G-PK",goals_pens_per90
+""" data-tip=""&lt;strong&gt;Non-Penalty Goals + Assists/90&lt;/strong&gt;&lt;br&gt;Goals plus Assists minus Penalty Kicks made per 90 minutes&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""G+A-PK",goals_assists_pens_per90
+""" data-tip=""&lt;strong&gt;xG/90&lt;/strong&gt;&lt;br&gt;Expected Goals per 90 minutes&lt;br&gt;xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""xG",xg_per90
+""" data-tip=""&lt;strong&gt;xAG/90&lt;/strong&gt;&lt;br&gt;Expected Assisted Goals per 90 minutes&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""xAG",xg_assist_per90
+""" data-tip=""&lt;strong&gt;xG + xAG/90&lt;/strong&gt;&lt;br&gt;Expected Goals plus Assisted Goals per 90 minutes&lt;br&gt;xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""xG+xAG",xg_xg_assist_per90
+""" data-tip=""&lt;strong&gt;npxG/90&lt;/strong&gt;&lt;br&gt;Non-Penalty Expected Goals per 90 minutes&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""npxG",npxg_per90
+""" data-tip=""&lt;strong&gt;npxG + xAG&lt;/strong&gt;&lt;br&gt;Non-Penalty Expected Goals plus Assisted Goals per 90 minutes&lt;br&gt;Provided by Opta.&lt;br&gt;An underline indicates there is a match that is missing data, but will be updated when available.&lt;br&gt;Minimum 30 minutes played per squad game to qualify as a leader""npxG+xAG",npxg_xg_assist_per90
+"""Matches",matches
+""" scope=""row""51",ranker
+"""<a href=""/en/players/3b8674e6/Rodrigo-Bentancur""Rodrigo Bentancur",player
+""" data-tip=""NT""<a href=""/en/country/URU/Uruguay-Football""<span style=""white-space: nowrap""<span class=""f-i f-uy"" style=""""uy",nationality
+"""MF",position
+"""<a href=""/en/squads/361ca564/Tottenham-Hotspur-Stats""Tottenham",team
+"""26-237",age
+"""1997",birth_year
+"""9",games
+"""6",games_starts
+"""406",minutes
+"""4.5",minutes_90s
+"""1",goals
+"""0",assists
+"""1",goals_assists
+"""1",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""2",cards_yellow
+"""0",cards_red
+"""1.0",xg
+"""1.0",npxg
+"""0.1",xg_assist
+"""1.1",npxg_xg_assist
+"""5",progressive_carries
+"""21",progressive_passes
+"""9",progressive_passes_received
+"""0.22",goals_per90
+"""0.00",assists_per90
+"""0.22",goals_assists_per90
+"""0.22",goals_pens_per90
+"""0.22",goals_assists_pens_per90
+"""0.22",xg_per90
+"""0.03",xg_assist_per90
+"""0.25",xg_xg_assist_per90
+"""0.22",npxg_per90
+"""0.25",npxg_xg_assist_per90
+"""<a href=""/en/players/3b8674e6/matchlogs/2023-2024/summary/Rodrigo-Bentancur-Match-Logs""Matches",matches
+""" scope=""row""52",ranker
+"""<a href=""/en/players/68db6358/Daniel-Bentley""Daniel Bentley",player
+""" data-tip=""birth""<a href=""/en/country/ENG/England-Football""<span style=""white-space: nowrap""<span class=""f-i f-gb-eng"" style=""""eng",nationality
+"""GK",position
+"""<a href=""/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats""Wolves",team
+"""30-219",age
+"""1993",birth_year
+"""3",games
+"""2",games_starts
+"""248",minutes
+"""2.8",minutes_90s
+"""0",goals
+"""0",assists
+"""0",goals_assists
+"""0",goals_pens
+"""0",pens_made
+"""0",pens_att
+"""0",cards_yellow
+"""0",cards_red
+"""0.0",xg
+"""0.0",npxg
+"""0.0",xg_assist
+"""0.0",npxg_xg_assist
+"""0",progressive_carries
+"""0",progressive_passes
+"""0",progressive_passes_received
+"""0.00",goals_per90
+"""0.00",assists_per90
+"""0.00",goals_assists_per90
+"""0.00",goals_pens_per90
+"""0.00",goals_assists_pens_per90
+"""0.00",xg_per90
+"""0.00",xg_assist_per90
+"""0.00",xg_xg_assist_per90
+"""0.00",npxg_per90
+"""0.00",npxg_xg_assist_per90
+"""<a href=""/en/players/68db6358/matchlogs/2023-2024/summary/Daniel-Bentley-Match-Logs""Matches",matches
+""" scope=""row""53",ranker
+"""<a href=""/en/players/f72293fc/Johann-Berg-Gudmundsson""Jóhann Berg Guðmundsson",player

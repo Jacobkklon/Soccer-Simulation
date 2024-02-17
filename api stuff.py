@@ -19,23 +19,19 @@ pre_df_squad = dict()
 features_wanted_squad = {"players_used","games"}
 
 player_rows = player_table.find_all('tr')
-
-
-# data = []
-# for row in player_rows:
-#     row_data = []
-#     for cell in row.find_all('td'):
-#         row_data.append(cell.text)
-#     data.append(row_data)
-
-#I'm going to try the method of reading data using the 'data-stat' label, which has a length of 9
-#print(player_rows)
-
 rawd = str(player_rows)
+
+
+
+
 colname = "" #Name of each column
 colnames = [] #Name of the stat we are looking at
 name_ind = 0 #Index that the colname starts at
 colmode = False #This indicates we are looking for columns
+statmode = False #This indicates that the column name has passed and we are going to see the stat soon in between >...<
+stat = "" #This preallocates the stat we have (it's part of a big string)
+stat_list = [] #Creating an empty list of player data, I'm going to create another loop after to read in stuff clearly
+
 
 #NOTE - to use quotes in a string you must use \"
 for i in range(10,len(rawd)): #Starting at 10 to avoid index issues
@@ -46,18 +42,31 @@ for i in range(10,len(rawd)): #Starting at 10 to avoid index issues
         colmode = True
 
     
-    elif colmode == True and i >= name_ind: #If we are in column-name finding mode and the column name is present
+    elif colmode == True and i >= name_ind: #If we are in column-name finding mode and the column name is what we are reading through
         
         colname += (rawd[i]) #Appending next char
         if rawd[i + 1] == "\"": #A quote char indicates data-stat value is done
             
             colmode = False
+            statmode = True
             colnames.append(colname)
             colname = ""
+    elif statmode == True and i >= name_ind and rawd[i] != ">": #bc entries go ">50< then we can directly used the name_ind to help
 
-print(colnames)
+        stat += rawd[i] #Adding to send of string
 
+        if rawd[i + 1] == "<": #This means we are at the final value before the end of the stat
+            
+            statmode = False
+            stat_list.append(stat) #Add the stat to the end of the player list
+            stat = "" #Reset stat value
         
+
+
+output = pd.DataFrame(colnames[:2000], stat_list[:2000])
+output.to_csv('out.csv')
+
+
         
 
     
