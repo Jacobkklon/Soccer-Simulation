@@ -60,11 +60,14 @@ for i in range(10,len(rawd)): #Starting at 10 to avoid index issues
             statmode = False
             stat_list.append(stat) #Add the stat to the end of the player list
             stat = "" #Reset stat value
+    
         
 #Writing Excel to spot-check data quality
-minl = min(len(colnames), len(stat_list))
-output = pd.DataFrame(colnames[:minl], stat_list[:minl])
-output.to_csv('out.csv')
+# minl = min(len(colnames), len(stat_list))
+# output = pd.DataFrame(colnames[:minl], stat_list[:minl])
+# output.to_csv('out.csv')
+
+print(player_rows)
 
 
         
