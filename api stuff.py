@@ -31,6 +31,7 @@ colmode = False #This indicates we are looking for columns
 statmode = False #This indicates that the column name has passed and we are going to see the stat soon in between >...<
 stat = "" #This preallocates the stat we have (it's part of a big string)
 stat_list = [] #Creating an empty list of player data, I'm going to create another loop after to read in stuff clearly
+triangle_finder = False #Triangle finder is used to find when the ">........ part happens with the quote and triangle
 
 
 #NOTE - to use quotes in a string you must use \"
@@ -51,21 +52,24 @@ for i in range(10,len(rawd)): #Starting at 10 to avoid index issues
             statmode = True
             colnames.append(colname)
             colname = ""
-    elif statmode == True and i >= name_ind and rawd[i] != ">": #bc entries go ">50< then we can directly used the name_ind to help
+    elif statmode == True and i >= name_ind and rawd[i-1:i+1] == "\">": #Any stat has "> in front
+        triangle_finder = True
+    elif statmode == True and i >= name_ind and triangle_finder == True: #bc entries go ">50< then we can directly used the name_ind to help
 
         stat += rawd[i] #Adding to send of string
 
         if rawd[i + 1] == "<": #This means we are at the final value before the end of the stat
             
             statmode = False
+            triangle_finder = False
             stat_list.append(stat) #Add the stat to the end of the player list
             stat = "" #Reset stat value
     
         
-#Writing Excel to spot-check data quality
-# minl = min(len(colnames), len(stat_list))
-# output = pd.DataFrame(colnames[:minl], stat_list[:minl])
-# output.to_csv('out.csv')
+#Writing to CSV to spot-check data quality
+minl = min(len(colnames), len(stat_list))
+output = pd.DataFrame(colnames[:minl], stat_list[:minl])
+output.to_csv('out.csv')
 
 print(player_rows)
 
