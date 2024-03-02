@@ -65,13 +65,46 @@ for i in range(10,len(rawd)): #Starting at 10 to avoid index issues
             stat_list.append(stat) #Add the stat to the end of the player list
             stat = "" #Reset stat value
     
+
         
 #Writing to CSV to spot-check data quality
 minl = min(len(colnames), len(stat_list))
-output = pd.DataFrame(colnames[:minl], stat_list[:minl])
-output.to_csv('out.csv')
+title_stat_df = pd.DataFrame({'colnames': colnames[:minl], 'stat_list': stat_list[:minl]}) 
+# title_stat_df.to_csv('out.csv')
 
-print(player_rows)
+coltitles = [] #Empty list representing headers of new df
+
+#First I will loop through and add the column headers
+for i in range(len(title_stat_df.index)):
+    if title_stat_df.iloc[i,0] == 'ranker' and i > 1:
+        break
+    else:
+        coltitles.append(title_stat_df.iloc[i,0])
+
+
+#Given that I have 2 columns in a df (title_stat_df) the next step is to read it into a stat-df with the right format
+#General idea: Loop through all the rows, know when to stop and append the new row
+newrow = [] #This will be used to represent each new row added
+stat_df = pd.DataFrame(columns = coltitles) #Final DF with stats
+
+
+for i in range(len(title_stat_df.index)): #i goes through all the ROWS
+    #Ranker is the first column name, so we will use it to increment
+    #Col 0 is the title name, Col 1 is the stat
+    if title_stat_df.iloc[i,0] == 'ranker' and i > 2:
+        stat_df.loc[len(stat_df.index)] = newrow
+        newrow = []
+    
+    # newrow.update({title_stat_df.iloc[i,0] : title_stat_df.iloc[i,1]})
+    newrow.append(title_stat_df.iloc[i,1])
+
+stat_df.to_csv('statdf.csv') #Writing finalized df with player stats to csv (I have looked at the csv and confirmed it's good!)
+
+#Next steps - writing df to DB and doing SQL for some automated cleaning, applying ML, and then hosting it on RESTFUL API on AWS
+
+
+
+
 
 
         
