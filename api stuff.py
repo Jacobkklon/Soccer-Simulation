@@ -4,6 +4,8 @@ import requests
 import re
 import sys, getopt
 import csv
+import mysql.connector
+from sqlalchemy import create_engine
 
 res = requests.get('https://fbref.com/en/comps/9/stats/Premier-League-Stats')
 
@@ -102,29 +104,34 @@ stat_df.to_csv('statdf.csv') #Writing finalized df with player stats to csv (I h
 
 #Next steps - writing df to DB and doing SQL for some automated cleaning, applying ML, and then hosting it on RESTFUL API on AWS
 
+#Connecting to the DB
+mydb = mysql.connector.connect(
+    host = "rds-mysql-soccer-project.cnuykwkwidxt.us-east-1.rds.amazonaws.com",
+    user = "admin",
+    password = "JacobKlonsky",
+    database="RDS_MySQL_Soccer_Project")
 
+#Creating the DB table
+mycursor = mydb.cursor()
+mycursor.execute("""CREATE TABLE player_stats (ranker VARCHAR(255), player VARCHAR(255), nationality VARCHAR(255), position VARCHAR(255), team VARCHAR(255), 
+                 team VARCHAR(255), age VARCHAR(255), birth_year DATE, games CHAR(3), games_starts CHAR(3), minutes CHAR(6), minutes_90s CHAR(5),
+                 goals CHAR(2), assists CHAR(2), goal_assists CHAR(2), goals_pens CHAR(2), pens_made CHAR(2),
+                 pens_att CHAR(2), cards_yellow CHAR(2), cards_red CHAR(2), xg CHAR(4), npxg CHAR(4), xg_assist CHAR(4),
+                 npxg_xg_assist CHAR(4), progressive_carries CHAR(4), progressive_passes CHAR(4), 
+                 progressive_passes_received CHAR(4), goals_per90 CHAR(3), assists_per90 CHAR(3), 
+                 goal_assists_per90 CHAR(4), goal_pens_per90 CHAR(4), goal_assists_pens_per90 CHAR(4), xg_per90 CHAR(3),
+                 xg_assist_per90 CHAR(3), xg_xg_assist_per90 CHAR(3), npxg_per90 CHAR(4), 
+                 npxg_xg_assist_per90 CHAR(4), matches VARCHAR(255)) """)
 
+# #Writing the CSV to DB
+# with open('statdf.csv', 'r') as f:
+#     reader = csv.reader(f)
+#     columns = next(reader) 
+#     query = 'insert into MyTable({0}) values ({1})'
+#     query = query.format(','.join(columns), ','.join('?' * len(columns)))
+#     cursor = connection.cursor()
+#     for data in reader:
+#         cursor.execute(query, data)
+#     cursor.commit()
 
-
-
-        
-
-    
-
-
-        
-
-        
-
-    
-        
-
-
-
- 
-
-
-
-#The next step is to use the fact that "data-stat" goes in front of any statistic and then the number to extract
-#all the data into a pandas DF 
-
+print('hi')

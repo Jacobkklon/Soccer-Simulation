@@ -7,13 +7,15 @@ mydb = mysql.connector.connect(
     user ="admin",
     password ="JacobKlonsky")
 
-#First we must create the DB
-mycursor = mydb.cursor()
-mycursor.execute("CREATE DATABASE soccer_sim")
+#First we must create the DB (#NOTE - this was a nice exercise but I realized it isn't needed because I already have a DB)
+# mycursor = mydb.cursor()
+# mycursor.execute("CREATE DATABASE soccer_sim")
+
 
 #Then we connect to the DB
 mydb = mysql.connector.connect(
     host = "rds-mysql-soccer-project.cnuykwkwidxt.us-east-1.rds.amazonaws.com",
     user = "admin",
     password = "JacobKlonsky",
-    database="soccer_sim")
+    database="RDS_MySQL_Soccer_Project")
+
