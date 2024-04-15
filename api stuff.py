@@ -111,27 +111,53 @@ mydb = mysql.connector.connect(
     password = "JacobKlonsky",
     database="RDS_MySQL_Soccer_Project")
 
-#Creating the DB table
-mycursor = mydb.cursor()
-mycursor.execute("""CREATE TABLE player_stats (ranker VARCHAR(255), player VARCHAR(255), nationality VARCHAR(255), position VARCHAR(255), team VARCHAR(255), 
-                 team VARCHAR(255), age VARCHAR(255), birth_year DATE, games CHAR(3), games_starts CHAR(3), minutes CHAR(6), minutes_90s CHAR(5),
-                 goals CHAR(2), assists CHAR(2), goal_assists CHAR(2), goals_pens CHAR(2), pens_made CHAR(2),
-                 pens_att CHAR(2), cards_yellow CHAR(2), cards_red CHAR(2), xg CHAR(4), npxg CHAR(4), xg_assist CHAR(4),
-                 npxg_xg_assist CHAR(4), progressive_carries CHAR(4), progressive_passes CHAR(4), 
-                 progressive_passes_received CHAR(4), goals_per90 CHAR(3), assists_per90 CHAR(3), 
-                 goal_assists_per90 CHAR(4), goal_pens_per90 CHAR(4), goal_assists_pens_per90 CHAR(4), xg_per90 CHAR(3),
-                 xg_assist_per90 CHAR(3), xg_xg_assist_per90 CHAR(3), npxg_per90 CHAR(4), 
-                 npxg_xg_assist_per90 CHAR(4), matches VARCHAR(255)) """)
+# #Creating the DB table with all the proper columns - this is a 1-time run so I've commented it out now
+mycursor = mydb.cursor() #This creates the cursor to execute SQL commands within
+# mycursor.execute("""CREATE TABLE player_stats (ranker VARCHAR(255), player VARCHAR(255), nationality VARCHAR(255), position VARCHAR(255),
+#                  team VARCHAR(255), age VARCHAR(255), birth_year DATE, games CHAR(3), games_starts CHAR(3), minutes CHAR(6), minutes_90s CHAR(5),
+#                  goals CHAR(2), assists CHAR(2), goal_assists CHAR(2), goals_pens CHAR(2), pens_made CHAR(2),
+#                  pens_att CHAR(2), cards_yellow CHAR(2), cards_red CHAR(2), xg CHAR(4), npxg CHAR(4), xg_assist CHAR(4),
+#                  npxg_xg_assist CHAR(4), progressive_carries CHAR(4), progressive_passes CHAR(4), 
+#                  progressive_passes_received CHAR(4), goals_per90 CHAR(3), assists_per90 CHAR(3), 
+#                  goal_assists_per90 CHAR(4), goal_pens_per90 CHAR(4), goal_assists_pens_per90 CHAR(4), xg_per90 CHAR(3),
+#                  xg_assist_per90 CHAR(3), xg_xg_assist_per90 CHAR(3), npxg_per90 CHAR(4), 
+#                  npxg_xg_assist_per90 CHAR(4), matches VARCHAR(255)) """)
 
-# #Writing the CSV to DB
-# with open('statdf.csv', 'r') as f:
-#     reader = csv.reader(f)
-#     columns = next(reader) 
-#     query = 'insert into MyTable({0}) values ({1})'
-#     query = query.format(','.join(columns), ','.join('?' * len(columns)))
-#     cursor = connection.cursor()
-#     for data in reader:
-#         cursor.execute(query, data)
-#     cursor.commit()
+#Now it's time to loop through the dataframe and line-by-line write the information to the DB
+# sql = f"""INSERT INTO player_stats (ranker, player, nationality, position, team, age, birth_year, games, 
+#                  games_starts, minutes, minutes_90s,
+#                  goals, assists, goal_assists, goals_pens, pens_made,
+#                  pens_att, cards_yellow, cards_red, xg, npxg, xg_assist,
+#                  npxg_xg_assist, progressive_carries, progressive_passes, 
+#                  progressive_passes_received, goals_per90, assists_per90, 
+#                  goal_assists_per90, goal_pens_per90, goal_assists_pens_per90, xg_per90,
+#                  xg_assist_per90, xg_xg_assist_per90, npxg_per90, 
+#                  npxg_xg_assist_per90, matches) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
+#                  %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
+#                  %s, %s, %s, %s, %s, %s, %s)"""
+# vals = list(stat_df.iloc[0][0:37])
+# vals = []
+# for i in range(stat_df.shape[1]):
+#     vals.append(str(stat_df.iloc[0][i]))
 
-print('hi')
+
+# mycursor.execute(sql,vals)
+
+namelist = ["ranker", "player", "nationality", "position", "team", "age", "birth_year", "games",
+            "games_starts", "minutes", "minutes_90s",
+            "goals", "assists", "goal_assists", "goals_pens", "pens_made",
+            "pens_att", "cards_yellow", "cards_red", "xg", "npxg", "xg_assist",
+            "npxg_xg_assist", "progressive_carries", "progressive_passes", 
+            "progressive_passes_received", "goals_per90", "assists_per90", 
+            "goal_assists_per90", "goal_pens_per90", "goal_assists_pens_per90", "xg_per90",
+            "xg_assist_per90", "xg_xg_assist_per90", "npxg_per90", 
+            "npxg_xg_assist_per90", "matches"]
+
+for i in range(1): #Represents y direction
+    for j in range(stat_df.shape[1]): #Represents x direction
+
+        colchoice = namelist[j]
+        val = stat_df.iloc[i][j]
+
+        query = f"INSERT INTO player_stats {colchoice} VALUES {val}"
+        mycursor.execute(query)
