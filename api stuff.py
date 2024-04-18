@@ -151,13 +151,13 @@ namelist = ["ranker", "player", "nationality", "position", "team", "age", "birth
             "progressive_passes_received", "goals_per90", "assists_per90", 
             "goal_assists_per90", "goal_pens_per90", "goal_assists_pens_per90", "xg_per90",
             "xg_assist_per90", "xg_xg_assist_per90", "npxg_per90", 
-            "npxg_xg_assist_per90", "matches"]
+            "npxg_xg_assist_per90", "matches"] 
 
 for i in range(1): #Represents y direction
     for j in range(stat_df.shape[1]): #Represents x direction
 
         colchoice = namelist[j]
-        val = stat_df.iloc[i][j]
+        val = str(stat_df.iloc[i][j])
 
-        query = f"INSERT INTO player_stats {colchoice} VALUES {val}"
+        query = f"INSERT INTO player_stats ({colchoice}) VALUES ({val})"
         mycursor.execute(query)
